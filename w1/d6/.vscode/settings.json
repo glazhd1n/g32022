@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "map": "cpp",
+        "memory": "cpp",
+        "regex": "cpp",
+        "utility": "cpp"
+    }
+}
